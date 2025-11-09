@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ecd111e.css",
+    "main.js": "/static/js/main.a56fcf89.js",
+    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
+    "static/media/tuananh-blue-4u3_pQklVwc-unsplash.jpg": "/static/media/tuananh-blue-4u3_pQklVwc-unsplash.1f5719589222a601469a.jpg",
+    "static/media/photo_2025-11-02_23-56-33.jpg": "/static/media/photo_2025-11-02_23-56-33.25f6037dbbdb35e7e339.jpg",
+    "index.html": "/index.html",
+    "main.4ecd111e.css.map": "/static/css/main.4ecd111e.css.map",
+    "main.a56fcf89.js.map": "/static/js/main.a56fcf89.js.map",
+    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ecd111e.css",
+    "static/js/main.a56fcf89.js"
+  ]
+}
