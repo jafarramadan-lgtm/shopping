@@ -1,0 +1,10 @@
+.foot{
+    font-style:italic;
+    background:black;
+    color:white ;
+    display:flex;
+    justify-content:space-between;
+    padding-left:2%;
+    padding-right:2%;
+    gap: 2%;
+}

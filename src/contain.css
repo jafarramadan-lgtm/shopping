@@ -1,0 +1,56 @@
+.contain{
+    background :#f8f8f2;
+    display:flex;
+    align-content:space-between;
+    justify-content:space-around;
+    height:80vh;
+    padding:2% 2%;
+}
+.left{
+    display:flex;
+    flex-direction:column;
+    width:50%;
+    justify-content:space-around;
+}
+h1{font-weight: bold;}
+button{
+
+display:flex;
+align-items:center;
+justify-content:center;
+cursor:pointer;
+background:black;
+color:white;
+border-radius:40%;
+width:20%;
+padding:2% 2%;
+transition: all 0.6s ease-in-out;
+}
+button:hover{
+        background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.dig{
+    display:flex;
+     justify-content:space-between;
+}
+.start{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+.img{
+      background:url(../public/photo_2025-11-02_23-56-33.jpg);
+      background-repeat:no-repeat;
+      background-size:contain;
+      width:30%;
+      height:100%;
+}
+.start h1{
+    transition: all 0.6s ease-in-out;
+}
+.start h1:hover{
+    color: aqua;
+    rotate: 360deg;
+}

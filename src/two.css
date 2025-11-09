@@ -1,0 +1,82 @@
+.t{
+    background-color: #f8f8f2;
+    
+    
+    
+
+}
+.filter{
+    display: block;
+    border: solid black 2px;
+    border-radius: 5%;
+    padding: 15px;
+    width: 70%;
+    background-color: azure;
+    margin-bottom: 15px;
+    height: 100%;
+}
+.pr{
+    width: 90%;
+}
+.one{
+    display: flex;
+    gap: 50px;
+}
+
+.twoo p{
+    display:inline-block;
+    margin: 10px;
+    transition: all .5s ease;
+}
+.twoo p:hover{color: blue; }
+.colors div{
+    width:30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 3px;
+    cursor: pointer;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: rgba(243, 238, 238, 0.908);
+}
+.blue{
+    background-color: blue;
+}
+.size button{
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+.con{
+    display: flex;
+    gap:none;
+    justify-content:left;
+}
+.right{
+    padding: 0px;
+    content: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.tit{
+    display: flex;
+    justify-content: space-between;
+    gap: 50%;
+    margin: none;
+    width: 100%;
+}

@@ -1,0 +1,54 @@
+.nav{
+     display:flex ;
+     flex-direction:row;
+     gap:4%;
+     height:20%;
+     align-items:center;
+     margin-left:1%;
+}
+h1{font-weight: bold;}
+p{
+    cursor: pointer;
+}
+.serachdiv{
+    width: 500px;
+    align-items: center;
+}
+.isearch{
+position: relative;
+z-index: 10;
+left: 10px;
+bottom: 35px;
+color: white;
+cursor: pointer;
+}
+.input1{
+    padding: 15px;
+    padding-left: 40px;
+     content: 30px;
+    font-size:15px;
+    width:700px;
+    height:1%; 
+    border-radius: 0 50px   0 50px;
+    border:none;
+    background:black ;
+    color :white;
+    font-weight: bold;
+}
+.input2{
+   height: .1px;
+ background:black;
+ border-radius:40% ;
+ cursor:pointer;
+ color:white;
+ transition:all .6s ease-in-out;
+
+}
+.input2:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.a{
+    cursor: pointer;
+}
